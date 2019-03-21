@@ -1,5 +1,5 @@
 def introduction
 end
-introduction_with_language ("Josh")
-puts "Hi, my name is #{Josh}."
+#introduction_with_language ("Josh", language)
+puts "Hi, my name is #{Josh} and I am learning to program in #{."
 end
